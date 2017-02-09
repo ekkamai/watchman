@@ -1,1 +1,1 @@
-# malware-checker
+# Malware Checker
