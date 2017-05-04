@@ -13,11 +13,11 @@ The check will return "CLEAN" if no reports are found, "SOCIAL_ENGINEERING" or "
 ### Step 1 - Google API Key
 You need an API key to access the Safe Browsing APIs. Read the [Getting Started Guide](https://developers.google.com/safe-browsing/v4/get-started) to get setup.
 
-1. Get an account
+*1. Get an account*
 
 You need a Google Account in order to create a project. If you don't already have an account, sign up at [Create your Google Account](https://accounts.google.com/SignUp)
 
-2. Create a project
+*2. Create a project*
 
 You need a Google Developer Console project in order to create an API key. If you don't already have a project, see [Create, shut down, and restore projects.](https://support.google.com/cloud/answer/6251787?hl=en)
 
