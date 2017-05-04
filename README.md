@@ -15,10 +15,11 @@ The check will return "CLEAN" if no reports are found, "SOCIAL_ENGINEERING" or "
 ### Step 2 - Uptime Robot
 This free service is typically used to check for downtime, but we'll be using it to schedule checks automatically and alert us of issues
 
-*1 - Register for an account*
-https://uptimerobot.com/signUp
+1. Register for an account
+[Uptime Robot](https://uptimerobot.com/signUp)
 
-*2 - Add Alert*
+
+2. Add Alert
 
 Monitor Type: Keyword
 Friendly Name: Anything
