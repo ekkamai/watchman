@@ -29,4 +29,4 @@ Monitoring Interval: 15 Mins
 
 http://example.com/check.php/check.php?url=checkdomain.com
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/wkXzS"><a href="//imgur.com/wkXzS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![uptime robot screenshot](http://imgur.com/wkXzS)
