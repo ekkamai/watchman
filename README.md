@@ -26,7 +26,7 @@ You need a Google Developer Console project in order to create an API key. If yo
 **Update API Key in code**
 
 Update the $api_key in the code
-![API in code screenshot](http://i.imgur.com/undefined.png)
+![API in code screenshot](http://i.imgur.com/02b7oJs.png)
 
 ### Step 2 - Uptime Robot
 This free service is typically used to check for downtime, but we'll be using it to schedule checks automatically and alert us of issues
