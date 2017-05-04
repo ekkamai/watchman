@@ -29,4 +29,4 @@ Monitoring Interval: 15 Mins
 
 http://example.com/check.php/check.php?url=checkdomain.com
 
-![uptime robot screenshot](http://imgur.com/wkXzS)
+![uptime robot screenshot](http://i.imgur.com/LoF2qpF.png)
