@@ -23,6 +23,10 @@ You need a Google Account in order to create a project. If you don't already hav
 
 You need a Google Developer Console project in order to create an API key. If you don't already have a project, see [Create, shut down, and restore projects.](https://support.google.com/cloud/answer/6251787?hl=en)
 
+**Update API Key in code**
+
+Update the $api_key in the code
+![API in code screenshot](http://i.imgur.com/undefined.png)
 
 ### Step 2 - Uptime Robot
 This free service is typically used to check for downtime, but we'll be using it to schedule checks automatically and alert us of issues
@@ -38,7 +42,7 @@ Join [Uptime Robot](https://uptimerobot.com/signUp) for free, SMS alerts cost ex
 <dd>Friendly Name: Anything</dd>
 <dd>Monitor Type: Keyword</dd>
 <dd>Friendly Name: Anything</dd>
-<dd>URL (or IP): http://example.com/check.php/check.php?url=checkdomain.com</dd>
+<dd>URL (or IP): http://example.com/check.php?url=checkdomain.com</dd>
 <dd>Keyword: CLEAN</dd>
 <dd>Alert When: Keyword Not Exists</dd>
 <dd>Monitoring Interval: 15 Mins</dd>
