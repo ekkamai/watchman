@@ -15,18 +15,30 @@ The check will return "CLEAN" if no reports are found, "SOCIAL_ENGINEERING" or "
 ### Step 2 - Uptime Robot
 This free service is typically used to check for downtime, but we'll be using it to schedule checks automatically and alert us of issues
 
-1. Register for an account
+*1. Register for an account*
+
 [Uptime Robot](https://uptimerobot.com/signUp)
 
 
-2. Add Alert
+*2. Add Alert*
+
+| ------------- |:-------------:|
+| Monitor Type      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 Monitor Type: Keyword
+
 Friendly Name: Anything
+
 URL (or IP): http://example.com/check.php/check.php?url=checkdomain.com
+
 Keyword: CLEAN
+
 Alert When: Keyword Not Exists
+
 Monitoring Interval: 15 Mins
+
 
 http://example.com/check.php/check.php?url=checkdomain.com
 
