@@ -34,10 +34,15 @@ This free service is typically used to check for downtime, but we'll be using it
 
 
 Monitor Type: Keyword
+
 Friendly Name: Anything
+
 URL (or IP): http://example.com/check.php/check.php?url=checkdomain.com
+
 Keyword: CLEAN
+
 Alert When: Keyword Not Exists
+
 Monitoring Interval: 15 Mins
 
 
