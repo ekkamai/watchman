@@ -33,6 +33,11 @@ Join [Uptime Robot](https://uptimerobot.com/signUp) for free, SMS alerts cost ex
 
 *Add Alert*
 
+<dl>
+<dd>Monitor Type: Keyword</dd>
+<dd>Friendly Name: Anything</dd>
+</dl>
+
 Monitor Type: Keyword
 Friendly Name: Anything
 URL (or IP): http://example.com/check.php/check.php?url=checkdomain.com
